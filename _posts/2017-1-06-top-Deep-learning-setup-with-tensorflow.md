@@ -9,7 +9,7 @@ Since they came up with the deep learning idea that all time TERMINATOR seems po
 
 
 
-## 1. [Install Anaconda]
+## 1. [Install Anaconda]( Run the following commands in your terminal)
 
 GO TO : https://repo.continuum.io/archive/
 DOWNLOAD Anaconda3-4.2.0 FOR YOU PLATFORM OR ANY VERSION

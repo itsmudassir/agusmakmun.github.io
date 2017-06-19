@@ -5,7 +5,7 @@ date:   2017-06-15 18:34:10 +0700
 categories: [html, ruby]
 ---
 
-Since they came up with the deep learning idea that all time TERMINATOR seems possible, not exactly the apocalypse part but the cool autonomous and intelligent humanoids part. We will be configuring Tensorflow library on UBUNTU 14.4 on top of Anaconda3-4.2.0. At present the is a latest version available but if you are a newbie and want to explore and learn about deep learning you will be needing to playaround with lots of opensource repos and examples that are produced by the Tensorflow comunity and those project will work well with the old most stable and test version of tensorflow. So lets install it   
+Since they came up with the deep learning idea that all time TERMINATOR seems possible, not exactly the apocalypse part but the cool autonomous and intelligent humanoids part. We will be configuring Tensorflow library on UBUNTU 14.4 on top of Anaconda3-4.2.0. At present there is a latest version available but if you are a newbie and want to explore and learn about deep learning you will be needing to playaround with lots of opensource repos and examples that are produced by the Tensorflow comunity and those projects will work well with the old most stable and tested version of tensorflow. So lets install it...   
 
 
 

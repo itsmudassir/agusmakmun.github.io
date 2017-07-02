@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building Ejabberd From Source Code"
-date:   2017-07-02 03:43:45 +0700
+date:   2017-07-01 03:43:45 +0700
 categories: [xmpp, erlang]
 ---
 

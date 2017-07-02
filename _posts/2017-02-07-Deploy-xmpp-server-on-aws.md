@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Xmpp Chat Backend Deployment on AWS"
-date:   2017-06-02 18:34:10 +0700
+date:   2017-07-02 18:34:10 +0700
 categories: [xmpp, erlang]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tensorflow setup for Deep Learning"
-date:   2017-06-15 18:34:10 +0700
+date:   2017-07-15 18:34:10 +0700
 categories: [html, ruby]
 ---
 

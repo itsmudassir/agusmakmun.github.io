@@ -2,7 +2,7 @@
 layout: post
 title:  "Building Ejabberd From Source Code"
 date:   2017-07-02 03:43:45 +0700
-categories: [python, codefights]
+categories: [xmpp, erlang]
 ---
 
 Recently we went through the deployment of Ejabberd in my [previous blog post][previous blog post]. If you want to add your own modules to ejabberd server you will need to build the source code of Ejabberd. Here is how i did it.
